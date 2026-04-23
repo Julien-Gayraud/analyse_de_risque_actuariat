@@ -1,5 +1,3 @@
-# Titre du repository proposé
-
 **modele_cramer_lundberg_actuariat**
 
 ---
